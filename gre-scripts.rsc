@@ -1,8 +1,3 @@
-# jan/24/2018 13:09:15 by RouterOS 6.41
-# software id = 2PLI-ZRRA
-#
-# model = 951Ui-2HnD
-# serial number = 558104101E81
 /system script
 add name=gre-firewall owner=administrator policy=read,write,policy,test \
     source="/ip firewall filter\r\
